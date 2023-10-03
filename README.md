@@ -90,9 +90,19 @@ The project consists of two main parts: data preprocessing and the Streamlit web
 - Movie data is sourced from [The Movie Database (TMDb)](https://www.themoviedb.org/).
 - The project is inspired by various online tutorials and resources.
 
-## Feel Free to Contribute
+## Deployment
 
-Contributions are welcome! If you'd like to improve this project, please feel free to fork the repository and submit pull requests. You can contribute in various ways, including adding new features, fixing bugs, and enhancing the user interface. Your contributions will help make this movie recommendation system even better.
+The movie recommendation system is deployed on [Streamlit Cloud](https://movizz.streamlit.app/). You can access and use the system by visiting the following link:
+
+[Movie Recommendation System on Streamlit Cloud](https://movizz.streamlit.app/)
+
+Feel free to try it out and discover movie recommendations based on your preferences!
+
+## Getting Involved
+
+Contributions to this project are always welcome. If you'd like to contribute, please follow the instructions in the [Contributing Guidelines](CONTRIBUTING.md).
+
+If you encounter any issues or have suggestions for improvement, please don't hesitate to [open an issue](https://github.com/your/repository/issues). Your feedback and contributions help make this project better for everyone.
 
 ## Acknowledgments
 
