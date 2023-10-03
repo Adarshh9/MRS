@@ -90,10 +90,6 @@ The project consists of two main parts: data preprocessing and the Streamlit web
 - Movie data is sourced from [The Movie Database (TMDb)](https://www.themoviedb.org/).
 - The project is inspired by various online tutorials and resources.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Feel Free to Contribute
 
 Contributions are welcome! If you'd like to improve this project, please feel free to fork the repository and submit pull requests. You can contribute in various ways, including adding new features, fixing bugs, and enhancing the user interface. Your contributions will help make this movie recommendation system even better.
