@@ -18,7 +18,7 @@ Follow these instructions to set up and run the project locally.
 1. Clone the repository to your local machine:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Adarshh9/MRS.git
 ```
 
 2. Install the required Python packages using pip:
